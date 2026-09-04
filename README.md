@@ -80,11 +80,6 @@ game mechanics and admin tooling. No longer maintained, but where I started.
   <img alt="Contribution graph" src="https://raw.githubusercontent.com/Colasuonno/Colasuonno/output/snake.svg" />
 </picture>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Colasuonno&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colasuonno&layout=compact&hide_border=true&langs_count=8&theme=graywhite" />
-</p>
-
 ---
 
 💬 Open to collaboration — feel free to reach out or open an issue on any of my repositories.
